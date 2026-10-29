@@ -46,8 +46,7 @@ Aplicação web desenvolvida especialmente para contadores e administradores que
 
 ## ☁️ Como Fazer o Deploy na Vercel (Gratuito)
 
-1. Suba esta pasta para um repositório no **GitHub** (ex: `https://github.com/seu-usuario/leitor-de-pdf`).
-2. Acesse [vercel.com](https://vercel.com) e conecte sua conta do GitHub.
-3. Clique em **"Add New Project"** e selecione o repositório `leitor-de-pdf`.
-4. Deixe as opções padrão do Next.js e clique em **Deploy**.
+1. Repositório oficial já publicado no GitHub: [github.com/Mickaell-Oliveira/leitor-de-pdf](https://github.com/Mickaell-Oliveira/leitor-de-pdf)
+2. Acesse [vercel.com/new](https://vercel.com/new) e conecte sua conta do GitHub.
+3. Selecione o repositório `leitor-de-pdf` e clique em **Deploy**.
 5. Em menos de 1 minuto o link público estará pronto para você enviar no WhatsApp da sua sogra e validar!
